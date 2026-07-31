@@ -92,8 +92,8 @@ else:
     st.sidebar.info("Using default dataset (`churn_data.csv`)")
 
 # --- TITLE & HEADER ---
-st.title("📊 Customer Churn Analytics Dashboard")
-st.markdown("Developed by **Rohit** | Upload any dataset to analyze dynamically or use defaults")
+st.title("📊 Customer Churn Analytics Platform")
+st.markdown("Developed by **Rohit** | End-to-End Data Analytics & Dynamic Web Application Platform")
 
 
 # --- SIDEBAR FILTERS ---
