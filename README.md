@@ -56,16 +56,33 @@ This platform empowers businesses and data analysts to:
 * **File:** [`python/customer_churn_analysis.ipynb`](python/customer_churn_analysis.ipynb)
 * Preprocessing, handling missing values, numeric conversions, feature engineering (`TenureGroup`), and visualization.
 
+## 🚀 Actionable Insights
+
+* **High-risk customer segments** contribute significantly to overall customer attrition.
+* **Short-term contract users** (Month-to-Month) are exponentially more likely to leave.
+* **High monthly charges and Fiber Optic service friction** increase churn probability.
+* **First-year tenure accounts** represent over 50% of total lost revenue.
+
 ---
 
-## 📊 Key Business Insights & Actionable Recommendations
+## 💡 Business Recommendations
 
-| Insight | Driver Identified | Strategic Recommendation |
-| :--- | :--- | :--- |
-| **Contract Risk** | Month-to-Month contracts have a **42.7% churn rate** vs <3% for 2-year contracts. | Launch targeted 10-15% discount campaigns for switching to 1-year/2-year plans. |
-| **Fiber Optic Discontent** | Fiber Optic users churn at **41.9%** vs 19.0% for DSL users. | Audit network reliability and accelerate tech support response times for Fiber lines. |
-| **Payment Friction** | Electronic Check users account for **57%+ of all churned customers**. | Offer a $5 bill credit incentive to encourage automatic bank/credit card payments. |
-| **Early Tenure Attrition** | Over **55% of all churn occurs within the first 12 months**. | Implement proactive check-ins at Months 1, 3, and 6 with free onboarding support. |
+* **Offer discounts or incentives** for converting to long-term (1-year / 2-year) contracts.
+* **Target high-risk customers** with automated proactive retention campaigns.
+* **Improve service quality and tech support** resolution times for Fiber Optic users.
+* **Provide auto-pay incentives** ($5 bill credit) to transition users away from manual electronic checks.
+
+---
+
+## 🧠 Why This Project Matters
+
+This project demonstrates an end-to-end, production-grade data analytics and web deployment workflow:
+
+* **Data Cleaning & Preprocessing:** Handling missing values and data type conversions in Python.
+* **Relational SQL Querying:** Writing structured queries for metrics, aggregations, and churn breakdown.
+* **Interactive Data Visualization:** Building Power BI dashboards and interactive Plotly charts.
+* **Insight Generation:** Driving data-backed strategies to reduce customer churn.
+* **Cloud Web App Deployment:** Deploying a dynamic Streamlit web application with custom CSV file upload capabilities.
 
 ---
 
