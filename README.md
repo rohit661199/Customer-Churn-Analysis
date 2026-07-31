@@ -97,7 +97,29 @@ Customer-Churn-Analysis/
 ├── test_sample_churn.csv       # Sample Test CSV for Dynamic Upload Testing
 ├── churn_dashboard.png         # Executive Dashboard Preview
 └── README.md                   # Platform Documentation
-```
+---
+
+## 💻 How to Run & Refresh Power BI Dashboard Locally
+
+Follow these steps to run and interact with the Power BI dashboard locally on your computer:
+
+### Prerequisites
+* Download and install [Power BI Desktop](https://powerbi.microsoft.com/desktop/) *(Free on Windows)*.
+
+### Step-by-Step Setup Instructions
+
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/rohit661199/Customer-Churn-Analysis.git
+   cd Customer-Churn-Analysis
+   ```
+
+2. **Open Power BI Dashboard:**
+   * Navigate to the `powerbi/` directory and open [`@dashboard.pbix`](powerbi/@dashboard.pbix) in Power BI Desktop.
+
+3. **Analyzing a New CSV Dataset in Power BI:**
+   * **Method 1 (Quick Swap):** Overwrite `dataset/churn_data.csv` with your new CSV dataset (maintaining matching column headers) and click **Refresh** on the **Home** tab ribbon in Power BI Desktop.
+   * **Method 2 (Custom Path):** In Power BI Desktop, click **Home** $\rightarrow$ **Transform Data** $\rightarrow$ **Data Source Settings** $\rightarrow$ **Change Source...** and select any CSV file path on your PC.
 
 ---
 
