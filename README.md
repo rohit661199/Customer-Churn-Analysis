@@ -48,6 +48,9 @@ This platform empowers businesses and data analysts to:
 * Interactive executive dashboard featuring DAX measures, contract breakdown, payment distribution, and gender analysis.
 * **Local Refresh Support:** Swap `dataset/churn_data.csv` locally and click **Refresh** in Power BI Desktop to update all visuals.
 
+#### 🖼️ Power BI Dashboard Preview
+![Power BI Dashboard Preview](churn_dashboard.png)
+
 ### 💻 3. Relational SQL Queries
 * **File:** [`sql/churn_analysis.sql`](sql/churn_analysis.sql)
 * Includes 10 analytical queries for calculating overall churn rate, revenue impact, tenure grouping, contract distributions, and high-risk segment identification.
