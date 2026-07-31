@@ -21,12 +21,12 @@ It combines traditional **Power BI business intelligence**, **relational SQL ana
 
 ## 🎯 Problem Statement & Business Impact
 
-Customer attrition is one of the highest cost drivers in subscription-based services. Retaining existing customers is up to 5x cheaper than acquiring new ones.
+Customer attrition is one of the highest cost drivers in subscription and service-based industries. Retaining existing customers is up to 5x cheaper than acquiring new ones, making data-driven churn analytics essential for protecting monthly recurring revenue.
 
-* **Total Analyzed Customers:** 7,043
-* **Churned Customers:** 1,869
-* **Overall Churn Rate:** 26.54%
-* **Monthly Revenue Lost:** **$139,130.85**
+This platform empowers businesses and data analysts to:
+* **Identify High-Risk Segments:** Uncover key behavioral drivers behind customer attrition across contracts, payment methods, and service types.
+* **Quantify Financial Impact:** Measure real-time monthly revenue loss caused by churned customer accounts.
+* **Automate Dynamic Analysis:** Upload any custom customer CSV dataset to instantly generate KPIs, distribution charts, and tailored retention strategies.
 
 ---
 
@@ -55,12 +55,6 @@ Customer attrition is one of the highest cost drivers in subscription-based serv
 ### 🐍 4. Python EDA & Data Processing
 * **File:** [`python/customer_churn_analysis.ipynb`](python/customer_churn_analysis.ipynb)
 * Preprocessing, handling missing values, numeric conversions, feature engineering (`TenureGroup`), and visualization.
-
----
-
-## 🖼️ Dashboard Preview
-
-![Power BI & Streamlit Dashboard Preview](churn_dashboard.png)
 
 ---
 
