@@ -62,7 +62,7 @@ with ch2:
     st.plotly_chart(fig2, use_container_width=True)
 
 st.subheader("Tenure vs Monthly Charges")
-fig3 = px.scatter(filtered_df, x="tenure", y="MonthlyCharges", color="Churn", opacity=0.6, labels={"tenure": "Tenure (Months)", "MonthlyCharges": "Monthly Charges ($)"})
+fig3 = px.scatter(filtered_df, x="tenure", y="MonthlyCharges", color="Churn", opacity=0.6, render_mode="svg", labels={"tenure": "Tenure (Months)", "MonthlyCharges": "Monthly Charges ($)"})
 st.plotly_chart(fig3, use_container_width=True)
 
 st.markdown("---")
