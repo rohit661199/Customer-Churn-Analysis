@@ -107,7 +107,20 @@ Customer-Churn-Analysis
 ├── powerbi       # Power BI dashboard (.pbix)
 ├── churn_dashboard.png # dashboard preview
 └── README.md
-```
+---
+
+## 🔄 Dynamic CSV Analysis & Power BI Usage
+
+### 1. Online Dynamic CSV Analysis (Streamlit App)
+- Open the live web app.
+- In the sidebar under **📂 Dataset Source**, use the file uploader to drag & drop any customer churn CSV dataset.
+- The entire dashboard (KPIs, charts, distributions, and data table) will automatically update and re-analyze your new dataset!
+
+### 2. Local Power BI Dataset Refresh
+To analyze a new CSV locally in Power BI Desktop (`powerbi/@dashboard.pbix`):
+1. Replace `dataset/churn_data.csv` with your new CSV dataset (keep column names consistent).
+2. Open `powerbi/@dashboard.pbix` in Power BI Desktop.
+3. Click **Refresh** on the Home tab to automatically update all visuals with your new data!
 
 ---
 

@@ -34,12 +34,39 @@ st.markdown("""
     </style>
 """, unsafe_allow_html=True)
 
-# --- LOAD & PREPROCESS DATA ---
+# --- DYNAMIC DATA LOADING ---
+st.sidebar.header("📂 Dataset Source")
+uploaded_file = st.sidebar.file_uploader("Upload Custom CSV File", type=["csv"], help="Upload any telecom churn CSV to analyze instantly.")
+
 @st.cache_data
-def load_data():
-    df = pd.read_csv("dataset/churn_data.csv")
-    df['TotalCharges'] = pd.to_numeric(df['TotalCharges'], errors='coerce')
-    df['TotalCharges'] = df['TotalCharges'].fillna(0)
+def process_data(file_source):
+    df = pd.read_csv(file_source)
+    
+    # Numeric conversions
+    if 'MonthlyCharges' in df.columns:
+        df['MonthlyCharges'] = pd.to_numeric(df['MonthlyCharges'], errors='coerce').fillna(0)
+    else:
+        df['MonthlyCharges'] = 0
+
+    if 'TotalCharges' in df.columns:
+        df['TotalCharges'] = pd.to_numeric(df['TotalCharges'], errors='coerce').fillna(0)
+    else:
+        df['TotalCharges'] = 0
+
+    if 'tenure' in df.columns:
+        df['tenure'] = pd.to_numeric(df['tenure'], errors='coerce').fillna(0)
+    else:
+        df['tenure'] = 0
+
+    # Categorical safeguards
+    for col in ['gender', 'Contract', 'InternetService', 'PaymentMethod', 'Churn', 'Partner', 'Dependents']:
+        if col not in df.columns:
+            df[col] = "Unknown"
+
+    if 'SeniorCitizen' in df.columns:
+        df['SeniorCitizenLabel'] = df['SeniorCitizen'].apply(lambda x: 'Senior (65+)' if x == 1 else 'Non-Senior')
+    else:
+        df['SeniorCitizenLabel'] = 'Non-Senior'
     
     # Feature Engineering for Tenure Group
     def tenure_group(tenure):
@@ -51,14 +78,23 @@ def load_data():
             return '3+ Years'
             
     df['TenureGroup'] = df['tenure'].apply(tenure_group)
-    df['SeniorCitizenLabel'] = df['SeniorCitizen'].apply(lambda x: 'Senior (65+)' if x == 1 else 'Non-Senior')
     return df
 
-df = load_data()
+if uploaded_file is not None:
+    try:
+        df = process_data(uploaded_file)
+        st.sidebar.success(f"Loaded: `{uploaded_file.name}` ({len(df):,} rows)")
+    except Exception as e:
+        st.sidebar.error(f"Error reading file: {e}")
+        df = process_data("dataset/churn_data.csv")
+else:
+    df = process_data("dataset/churn_data.csv")
+    st.sidebar.info("Using default dataset (`churn_data.csv`)")
 
 # --- TITLE & HEADER ---
 st.title("📊 Customer Churn Analytics Dashboard")
-st.markdown("Developed by **Rohit** | End-to-End Data Analytics with Python, SQL & Power BI")
+st.markdown("Developed by **Rohit** | Upload any dataset to analyze dynamically or use defaults")
+
 
 # --- SIDEBAR FILTERS ---
 st.sidebar.header("🔍 Filter Dashboard")
