@@ -1,0 +1,151 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,TotalCharges,Churn
+2824-NEW001,Male,0,Yes,Yes,18,No,No phone service,DSL,Yes,No,Yes,Yes,Yes,Yes,Month-to-month,Yes,Mailed check,88.02,1584.36,No
+7873-NEW002,Male,1,No,Yes,21,No,No phone service,Fiber optic,No,No,Yes,Yes,No,Yes,Month-to-month,No,Electronic check,54.1,1136.1,Yes
+5333-NEW003,Male,1,Yes,No,11,No,No phone service,Fiber optic,No,Yes,Yes,Yes,Yes,No,Month-to-month,Yes,Electronic check,56.11,617.21,Yes
+6977-NEW004,Male,0,No,Yes,35,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Mailed check,70.74,2475.9,No
+5010-NEW005,Male,1,No,No,72,Yes,No,DSL,Yes,Yes,No,No,No,Yes,Month-to-month,No,Mailed check,82.27,5923.44,Yes
+8517-NEW006,Male,0,Yes,Yes,72,No,No phone service,Fiber optic,No,No,No,Yes,Yes,No,Month-to-month,Yes,Electronic check,34.52,2485.44,Yes
+7916-NEW007,Male,1,No,No,68,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Bank transfer (automatic),93.02,6325.36,No
+6573-NEW008,Male,0,No,Yes,59,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Bank transfer (automatic),99.96,5897.64,Yes
+4258-NEW009,Male,0,Yes,Yes,42,Yes,Yes,DSL,No,No,Yes,Yes,Yes,Yes,Month-to-month,No,Electronic check,112.91,4742.22,Yes
+3060-NEW010,Male,1,Yes,No,68,No,No phone service,Fiber optic,Yes,Yes,No,No,No,No,Two year,No,Electronic check,43.55,2961.4,No
+2049-NEW011,Female,0,Yes,Yes,1,Yes,Yes,DSL,Yes,Yes,No,Yes,Yes,No,Two year,No,Mailed check,71.23,71.23,No
+8744-NEW012,Male,1,No,Yes,13,Yes,No,Fiber optic,No,No,No,Yes,Yes,Yes,One year,No,Electronic check,43.62,567.06,No
+4116-NEW013,Female,0,No,Yes,36,Yes,Yes,DSL,No,Yes,Yes,Yes,Yes,Yes,Month-to-month,No,Credit card (automatic),65.73,2366.28,No
+1960-NEW014,Male,1,Yes,No,34,Yes,No,Fiber optic,No,Yes,Yes,No,Yes,Yes,Two year,Yes,Bank transfer (automatic),25.43,864.62,No
+8811-NEW015,Male,0,Yes,Yes,9,No,No phone service,DSL,Yes,No,Yes,Yes,Yes,Yes,One year,No,Bank transfer (automatic),39.4,354.6,No
+6147-NEW016,Male,0,No,Yes,39,Yes,No,DSL,Yes,No,Yes,Yes,Yes,No,Month-to-month,No,Electronic check,103.53,4037.67,Yes
+3584-NEW017,Female,0,Yes,No,14,Yes,No,DSL,Yes,Yes,No,No,Yes,No,Month-to-month,No,Credit card (automatic),43.86,614.04,No
+1832-NEW018,Male,1,No,Yes,1,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Credit card (automatic),72.41,72.41,No
+8007-NEW019,Male,0,Yes,Yes,70,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Credit card (automatic),32.11,2247.7,No
+6050-NEW020,Female,0,No,Yes,32,No,No phone service,DSL,No,No,Yes,Yes,Yes,Yes,One year,Yes,Mailed check,89.97,2879.04,No
+6442-NEW021,Female,0,No,Yes,14,Yes,Yes,Fiber optic,Yes,Yes,No,No,No,Yes,Month-to-month,Yes,Mailed check,57.85,809.9,Yes
+2137-NEW022,Female,0,No,No,4,Yes,No,DSL,No,Yes,Yes,No,No,No,One year,Yes,Credit card (automatic),105.45,421.8,No
+4114-NEW023,Female,0,No,Yes,67,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Bank transfer (automatic),60.97,4084.99,No
+6409-NEW024,Female,0,No,No,53,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Mailed check,59.94,3176.82,No
+7211-NEW025,Male,0,No,Yes,39,Yes,Yes,Fiber optic,No,No,No,No,Yes,No,Two year,Yes,Electronic check,46.96,1831.44,No
+6491-NEW026,Male,0,No,Yes,26,Yes,Yes,DSL,Yes,No,Yes,No,No,Yes,Two year,No,Credit card (automatic),57.97,1507.22,No
+3417-NEW027,Male,0,No,Yes,23,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Mailed check,107.16,2464.68,No
+2988-NEW028,Female,0,No,No,57,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Credit card (automatic),105.23,5998.11,No
+8777-NEW029,Female,0,Yes,No,67,Yes,Yes,Fiber optic,No,Yes,No,Yes,No,No,One year,Yes,Mailed check,34.33,2300.11,No
+7275-NEW030,Male,0,Yes,No,53,Yes,No,Fiber optic,Yes,Yes,No,No,Yes,No,One year,Yes,Bank transfer (automatic),48.37,2563.61,No
+7389-NEW031,Female,0,No,Yes,35,Yes,No,DSL,No,No,No,Yes,No,Yes,Two year,Yes,Credit card (automatic),76.23,2668.05,No
+1444-NEW032,Male,1,Yes,No,24,Yes,No,Fiber optic,No,Yes,No,No,No,No,One year,No,Bank transfer (automatic),99.32,2383.68,No
+8705-NEW033,Male,0,No,Yes,9,No,No phone service,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,No,Electronic check,73.58,662.22,Yes
+5198-NEW034,Female,0,Yes,Yes,40,Yes,Yes,Fiber optic,No,No,Yes,Yes,Yes,Yes,Two year,No,Electronic check,95.64,3825.6,No
+1672-NEW035,Female,1,No,Yes,65,No,No phone service,Fiber optic,Yes,No,No,Yes,No,No,Two year,No,Mailed check,61.37,3989.05,No
+9548-NEW036,Female,1,No,No,35,Yes,Yes,DSL,No,No,Yes,No,No,No,Month-to-month,No,Bank transfer (automatic),37.27,1304.45,Yes
+5232-NEW037,Female,0,No,Yes,67,Yes,Yes,DSL,No,No,Yes,No,No,No,Month-to-month,Yes,Bank transfer (automatic),41.05,2750.35,No
+6016-NEW038,Female,1,No,No,71,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Bank transfer (automatic),43.88,3115.48,No
+2976-NEW039,Male,0,Yes,Yes,25,Yes,No,Fiber optic,No,Yes,Yes,No,Yes,No,Month-to-month,No,Electronic check,87.26,2181.5,Yes
+1745-NEW040,Male,0,Yes,No,14,Yes,No,Fiber optic,No,No,No,Yes,Yes,No,One year,Yes,Electronic check,58.07,812.98,No
+2213-NEW041,Male,0,Yes,No,11,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Credit card (automatic),62.8,690.8,No
+8253-NEW042,Female,1,No,Yes,13,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,No,Credit card (automatic),85.49,1111.37,Yes
+1534-NEW043,Male,0,No,No,10,No,No phone service,DSL,No,Yes,No,Yes,Yes,Yes,One year,Yes,Electronic check,25.67,256.7,No
+6039-NEW044,Female,1,Yes,No,39,No,No phone service,Fiber optic,No,No,No,Yes,Yes,No,Two year,No,Bank transfer (automatic),22.46,875.94,No
+4750-NEW045,Male,0,Yes,Yes,61,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Mailed check,114.71,6997.31,No
+8141-NEW046,Female,0,No,No,53,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Bank transfer (automatic),59.11,3132.83,Yes
+7561-NEW047,Male,1,Yes,No,33,Yes,Yes,Fiber optic,Yes,No,No,Yes,Yes,No,Two year,No,Credit card (automatic),92.2,3042.6,No
+4335-NEW048,Female,0,No,No,63,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Mailed check,49.52,3119.76,No
+1224-NEW049,Female,0,Yes,Yes,60,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,One year,Yes,Credit card (automatic),38.11,2286.6,No
+9327-NEW050,Male,0,No,No,44,No,No phone service,Fiber optic,Yes,No,No,No,Yes,No,Two year,No,Bank transfer (automatic),51.58,2269.52,No
+9903-NEW051,Female,1,No,Yes,31,No,No phone service,Fiber optic,Yes,No,Yes,No,No,No,One year,Yes,Credit card (automatic),111.66,3461.46,No
+3068-NEW052,Female,0,No,Yes,68,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,27.11,1843.48,No
+5342-NEW053,Female,1,Yes,No,69,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Electronic check,78.66,5427.54,No
+4846-NEW054,Female,0,Yes,No,13,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,85.93,1117.09,No
+1753-NEW055,Female,0,No,No,48,Yes,Yes,DSL,No,Yes,Yes,Yes,Yes,No,Two year,Yes,Credit card (automatic),106.72,5122.56,No
+3344-NEW056,Male,1,No,No,33,No,No phone service,DSL,No,No,Yes,Yes,No,No,Two year,No,Credit card (automatic),85.58,2824.14,No
+8484-NEW057,Female,0,No,No,14,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Bank transfer (automatic),22.08,309.12,No
+7484-NEW058,Female,0,Yes,No,37,Yes,No,DSL,Yes,No,Yes,Yes,Yes,No,One year,Yes,Bank transfer (automatic),89.57,3314.09,No
+2476-NEW059,Female,0,No,Yes,26,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,44.41,1154.66,No
+8894-NEW060,Female,0,Yes,No,10,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Bank transfer (automatic),28.58,285.8,No
+7464-NEW061,Male,0,Yes,No,48,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Credit card (automatic),98.13,4710.24,No
+7086-NEW062,Male,0,No,Yes,72,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Bank transfer (automatic),81.68,5880.96,Yes
+1742-NEW063,Male,0,No,Yes,13,Yes,Yes,Fiber optic,No,No,No,Yes,No,Yes,One year,No,Bank transfer (automatic),23.11,300.43,No
+7070-NEW064,Male,1,No,Yes,47,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Electronic check,57.82,2717.54,No
+4109-NEW065,Male,1,Yes,Yes,3,Yes,No,DSL,Yes,Yes,Yes,Yes,Yes,Yes,One year,Yes,Electronic check,46.34,139.02,No
+3370-NEW066,Male,0,Yes,Yes,4,Yes,Yes,Fiber optic,Yes,No,Yes,Yes,No,Yes,Month-to-month,No,Electronic check,90.84,363.36,Yes
+6931-NEW067,Male,1,Yes,Yes,67,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Credit card (automatic),100.49,6732.83,Yes
+2768-NEW068,Female,1,Yes,Yes,42,No,No phone service,DSL,Yes,Yes,No,No,No,No,One year,No,Electronic check,95.34,4004.28,No
+2874-NEW069,Male,1,No,Yes,53,Yes,No,Fiber optic,No,Yes,No,No,No,No,One year,Yes,Credit card (automatic),26.38,1398.14,No
+2398-NEW070,Male,1,Yes,No,17,No,No phone service,DSL,No,Yes,No,No,No,Yes,One year,No,Bank transfer (automatic),29.84,507.28,No
+9313-NEW071,Male,0,No,Yes,14,Yes,No,DSL,No,Yes,No,Yes,No,Yes,Month-to-month,No,Bank transfer (automatic),107.55,1505.7,Yes
+3972-NEW072,Male,1,Yes,Yes,4,Yes,Yes,Fiber optic,No,No,No,Yes,No,No,Two year,No,Electronic check,103.92,415.68,No
+3549-NEW073,Male,0,Yes,No,57,No,No phone service,Fiber optic,No,No,No,No,Yes,Yes,One year,No,Electronic check,46.91,2673.87,No
+8972-NEW074,Female,0,Yes,No,8,Yes,Yes,Fiber optic,Yes,Yes,No,No,No,Yes,Month-to-month,No,Credit card (automatic),36.69,293.52,Yes
+4770-NEW075,Female,0,No,Yes,56,Yes,No,DSL,No,No,No,No,No,Yes,One year,Yes,Bank transfer (automatic),36.33,2034.48,No
+8538-NEW076,Female,0,No,Yes,32,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Bank transfer (automatic),90.85,2907.2,Yes
+3754-NEW077,Male,0,Yes,No,45,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Electronic check,33.91,1525.95,Yes
+3504-NEW078,Male,0,No,No,58,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Bank transfer (automatic),34.34,1991.72,No
+2118-NEW079,Female,1,No,No,8,Yes,Yes,Fiber optic,No,No,Yes,Yes,No,No,Month-to-month,Yes,Credit card (automatic),63.96,511.68,No
+1672-NEW080,Female,0,No,No,65,Yes,Yes,Fiber optic,Yes,No,Yes,Yes,Yes,Yes,Two year,No,Credit card (automatic),69.79,4536.35,No
+3600-NEW081,Female,0,No,No,53,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Electronic check,51.32,2719.96,No
+7333-NEW082,Female,0,Yes,No,11,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Bank transfer (automatic),111.93,1231.23,No
+7421-NEW083,Male,0,No,No,43,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Bank transfer (automatic),21.73,934.39,No
+6060-NEW084,Male,0,No,No,25,Yes,Yes,DSL,Yes,No,Yes,Yes,No,Yes,Two year,No,Mailed check,35.41,885.25,No
+3712-NEW085,Female,0,No,No,31,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Mailed check,49.4,1531.4,No
+8684-NEW086,Male,0,No,No,37,Yes,No,DSL,Yes,Yes,No,Yes,No,No,Two year,Yes,Electronic check,47.08,1741.96,No
+3626-NEW087,Female,1,Yes,No,12,Yes,No,Fiber optic,Yes,No,Yes,No,No,Yes,One year,Yes,Bank transfer (automatic),41.33,495.96,No
+6221-NEW088,Male,0,Yes,Yes,5,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Credit card (automatic),78.46,392.3,No
+1311-NEW089,Female,0,Yes,No,15,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,No,Yes,Month-to-month,No,Electronic check,80.04,1200.6,No
+3352-NEW090,Female,1,Yes,No,31,No,No phone service,Fiber optic,Yes,Yes,No,Yes,Yes,No,One year,Yes,Credit card (automatic),113.2,3509.2,No
+5155-NEW091,Male,0,Yes,No,31,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Bank transfer (automatic),32.67,1012.77,No
+6772-NEW092,Female,0,No,No,24,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Bank transfer (automatic),39.15,939.6,No
+4268-NEW093,Male,0,No,No,70,Yes,No,DSL,Yes,No,No,Yes,No,No,Month-to-month,No,Credit card (automatic),104.5,7315.0,No
+7334-NEW094,Female,0,No,No,48,No,No phone service,Fiber optic,Yes,No,Yes,No,Yes,No,One year,Yes,Electronic check,51.15,2455.2,No
+5843-NEW095,Female,1,No,Yes,57,Yes,No,DSL,No,No,No,Yes,Yes,No,One year,Yes,Electronic check,33.56,1912.92,No
+8179-NEW096,Male,0,Yes,Yes,47,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Credit card (automatic),110.14,5176.58,Yes
+2259-NEW097,Male,0,No,No,36,Yes,Yes,DSL,Yes,No,No,Yes,No,No,Two year,No,Mailed check,114.65,4127.4,No
+5678-NEW098,Female,0,Yes,Yes,10,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Bank transfer (automatic),83.44,834.4,No
+2063-NEW099,Female,0,Yes,Yes,47,No,No phone service,DSL,Yes,Yes,Yes,Yes,No,Yes,One year,No,Credit card (automatic),96.35,4528.45,No
+3126-NEW100,Male,0,No,No,62,No,No phone service,Fiber optic,No,Yes,Yes,No,Yes,No,One year,No,Mailed check,103.41,6411.42,No
+3981-NEW101,Male,1,Yes,Yes,67,Yes,No,DSL,Yes,No,Yes,No,No,Yes,One year,Yes,Bank transfer (automatic),31.89,2136.63,No
+5961-NEW102,Male,0,Yes,Yes,44,No,No phone service,DSL,Yes,Yes,Yes,No,Yes,No,Two year,Yes,Credit card (automatic),104.45,4595.8,No
+9938-NEW103,Female,0,No,Yes,52,Yes,No,DSL,Yes,Yes,No,No,No,No,Month-to-month,No,Mailed check,49.7,2584.4,No
+6658-NEW104,Female,0,No,Yes,41,Yes,No,DSL,No,No,Yes,Yes,Yes,Yes,One year,No,Credit card (automatic),43.59,1787.19,No
+3616-NEW105,Female,0,Yes,Yes,64,No,No phone service,Fiber optic,No,No,No,Yes,Yes,No,Two year,No,Mailed check,40.44,2588.16,No
+6781-NEW106,Male,0,No,No,61,Yes,Yes,DSL,No,Yes,No,No,No,No,Month-to-month,No,Electronic check,74.18,4524.98,Yes
+5728-NEW107,Male,1,No,No,16,Yes,Yes,Fiber optic,No,No,No,Yes,Yes,No,Two year,Yes,Electronic check,23.7,379.2,No
+6456-NEW108,Female,1,Yes,Yes,42,No,No phone service,Fiber optic,Yes,No,No,No,No,No,One year,Yes,Bank transfer (automatic),51.47,2161.74,No
+2795-NEW109,Female,0,Yes,No,34,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Electronic check,75.43,2564.62,No
+3793-NEW110,Female,0,Yes,Yes,15,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,No,Two year,No,Electronic check,87.05,1305.75,No
+9498-NEW111,Male,0,No,No,41,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Bank transfer (automatic),77.96,3196.36,No
+4150-NEW112,Male,0,No,Yes,39,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Bank transfer (automatic),65.58,2557.62,No
+5480-NEW113,Female,0,No,No,45,Yes,No,DSL,No,Yes,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),108.64,4888.8,No
+3249-NEW114,Male,0,Yes,Yes,68,Yes,Yes,DSL,Yes,No,No,No,Yes,Yes,Month-to-month,Yes,Credit card (automatic),82.02,5577.36,No
+8793-NEW115,Female,0,No,No,37,No,No phone service,DSL,Yes,Yes,Yes,Yes,No,Yes,Month-to-month,No,Credit card (automatic),37.7,1394.9,No
+5742-NEW116,Male,0,No,Yes,43,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,100.85,4336.55,No
+8668-NEW117,Female,0,Yes,No,21,No,No phone service,Fiber optic,No,Yes,Yes,No,No,Yes,Month-to-month,No,Credit card (automatic),68.95,1447.95,Yes
+2562-NEW118,Male,0,No,No,32,Yes,No,Fiber optic,Yes,No,No,No,No,Yes,One year,No,Mailed check,25.9,828.8,No
+2936-NEW119,Female,0,Yes,No,65,No,No phone service,Fiber optic,Yes,No,No,Yes,Yes,Yes,One year,Yes,Credit card (automatic),91.03,5916.95,No
+7121-NEW120,Female,1,Yes,Yes,11,No,No phone service,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Month-to-month,No,Credit card (automatic),31.04,341.44,Yes
+9008-NEW121,Male,1,Yes,No,17,No,No phone service,Fiber optic,No,Yes,No,No,Yes,No,One year,Yes,Mailed check,74.94,1273.98,No
+1742-NEW122,Female,0,Yes,Yes,9,Yes,Yes,Fiber optic,No,Yes,Yes,No,No,No,One year,No,Credit card (automatic),27.62,248.58,No
+9835-NEW123,Male,0,Yes,Yes,69,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Electronic check,112.96,7794.24,Yes
+9920-NEW124,Female,1,Yes,Yes,59,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,76.42,4508.78,Yes
+1797-NEW125,Male,0,No,No,30,No,No phone service,DSL,Yes,Yes,No,Yes,No,No,Month-to-month,No,Mailed check,113.64,3409.2,Yes
+7775-NEW126,Female,0,Yes,Yes,55,No,No phone service,Fiber optic,Yes,No,No,No,No,No,Month-to-month,No,Credit card (automatic),37.47,2060.85,Yes
+4948-NEW127,Male,0,Yes,No,8,No,No phone service,Fiber optic,No,Yes,No,Yes,No,Yes,One year,Yes,Credit card (automatic),100.48,803.84,No
+2514-NEW128,Male,0,No,No,6,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Credit card (automatic),39.84,239.04,No
+6455-NEW129,Female,0,Yes,Yes,16,No,No phone service,Fiber optic,Yes,Yes,No,Yes,No,No,One year,No,Bank transfer (automatic),49.3,788.8,No
+6892-NEW130,Female,1,Yes,No,41,Yes,No,Fiber optic,No,Yes,Yes,Yes,Yes,No,Two year,No,Bank transfer (automatic),34.48,1413.68,No
+6404-NEW131,Male,1,Yes,No,71,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Credit card (automatic),111.82,7939.22,No
+9037-NEW132,Female,0,No,Yes,18,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Electronic check,69.77,1255.86,No
+2217-NEW133,Male,0,No,Yes,30,Yes,Yes,DSL,Yes,No,No,Yes,No,No,Month-to-month,Yes,Credit card (automatic),21.13,633.9,Yes
+5501-NEW134,Female,0,No,Yes,14,Yes,Yes,DSL,Yes,No,No,No,No,Yes,One year,No,Credit card (automatic),73.68,1031.52,No
+4700-NEW135,Female,0,Yes,Yes,52,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Electronic check,86.77,4512.04,No
+2354-NEW136,Female,1,No,Yes,68,Yes,Yes,DSL,No,No,Yes,Yes,No,Yes,Month-to-month,No,Electronic check,111.34,7571.12,No
+7525-NEW137,Male,0,Yes,Yes,50,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Mailed check,95.1,4755.0,No
+2284-NEW138,Female,0,Yes,No,30,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Bank transfer (automatic),22.81,684.3,No
+5478-NEW139,Female,1,Yes,No,71,Yes,No,DSL,No,Yes,No,Yes,Yes,Yes,One year,Yes,Credit card (automatic),87.61,6220.31,No
+3527-NEW140,Female,0,No,Yes,12,Yes,No,Fiber optic,No,No,Yes,Yes,Yes,Yes,One year,No,Credit card (automatic),29.81,357.72,No
+2468-NEW141,Female,0,No,No,2,Yes,No,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,One year,No,Bank transfer (automatic),66.85,133.7,No
+2036-NEW142,Male,1,No,No,39,Yes,Yes,Fiber optic,No,Yes,No,Yes,No,Yes,Month-to-month,No,Electronic check,110.14,4295.46,Yes
+7224-NEW143,Female,1,No,No,18,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Credit card (automatic),49.85,897.3,No
+7524-NEW144,Female,0,No,Yes,42,Yes,No,Fiber optic,No,Yes,Yes,Yes,Yes,No,Two year,Yes,Credit card (automatic),95.78,4022.76,No
+2133-NEW145,Female,1,Yes,No,31,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Electronic check,62.66,1942.46,No
+8851-NEW146,Female,1,Yes,No,69,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Mailed check,82.47,5690.43,Yes
+1725-NEW147,Female,0,No,Yes,2,Yes,No,DSL,Yes,No,No,No,No,Yes,One year,Yes,Credit card (automatic),29.93,59.86,No
+7815-NEW148,Male,0,Yes,No,40,Yes,No,DSL,No,No,No,Yes,No,No,One year,Yes,Bank transfer (automatic),24.24,969.6,No
+2885-NEW149,Male,0,Yes,Yes,32,No,No phone service,DSL,Yes,No,No,No,Yes,No,Two year,Yes,Mailed check,80.85,2587.2,No
+8080-NEW150,Female,0,Yes,No,55,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Bank transfer (automatic),91.47,5030.85,No
