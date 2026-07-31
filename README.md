@@ -97,6 +97,8 @@ Customer-Churn-Analysis/
 ├── test_sample_churn.csv       # Sample Test CSV for Dynamic Upload Testing
 ├── churn_dashboard.png         # Executive Dashboard Preview
 └── README.md                   # Platform Documentation
+```
+
 ---
 
 ## 💻 How to Run & Refresh Power BI Dashboard Locally
